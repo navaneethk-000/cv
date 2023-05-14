@@ -371,6 +371,12 @@ nav ul .fa{
         display: block;
         font-size: 25px;
     }
+    .about-col-1 img {
+
+    width: 100%;
+    border-radius: 50px;
+    height: 470px;
+    }
     .subtitle{
 
         font-size: 40px;
